@@ -10,5 +10,9 @@ Ich habe schon ein Zahlen-Guesser gemacht aber ich will testen ob ich es noch ka
 VORGEHENSWEISE
 Zuerst überlege ich mir wie ich das angehen will also wie soll es genau aussehen und dann fange ich an zu Coden
 
+## Reflexion
+Ich habe jetzt das funktionierende Programm gemacht ich habe nur für 4 Code Zeile Claude benutzt. Ich bin noch nicht fertig 
+doch ich habe ein fnktionierendes Programm erstellt und ich will das noch verbessern und erweitern.
+
 
 

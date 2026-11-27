@@ -14,5 +14,8 @@ Zuerst überlege ich mir wie ich das angehen will also wie soll es genau aussehe
 Ich habe jetzt das funktionierende Programm gemacht ich habe nur für 4 Code Zeile Claude benutzt. Ich bin noch nicht fertig 
 doch ich habe ein fnktionierendes Programm erstellt und ich will das noch verbessern und erweitern.
 
+## Projekt fertig
+ich bin fertig mit meinem Projekt es freut mich sehr. Ich starte mit einem neuen Mini-Projekt man sieht das Programm bei der Ablage.
+
 
 
